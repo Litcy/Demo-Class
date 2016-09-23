@@ -22,7 +22,7 @@ int main()
     cout << myVar.getNum() << endl;
     cout << myVar.getRoom() << endl;
     cout << myVar.getFun() << endl;
-
+cout << " Var= " << var << endl;
     return 0;
 
 }
