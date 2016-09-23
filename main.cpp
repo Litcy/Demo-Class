@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <string>
+#include "MyClass.h"
 using namespace std;
 
 
