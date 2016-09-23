@@ -1,3 +1,5 @@
+#include "MyClass.h"
+
 void myClass::myClass()
 {
     int num;
