@@ -1,8 +1,8 @@
 #include "MyClass.h"
 
-void myClass::myClass()
+myClass::myClass()
 {
-    int num;
+    int num = 0;
     string room;
     bool fun; 
 }
