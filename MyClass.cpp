@@ -17,18 +17,18 @@ int myClass::getNum()
      return num;
 }
 
-void myClass::setRoom(int r)
+void myClass::setRoom(string r)
 {
      room = r;
 }
 
-int myClass::getRoom()
+string myClass::getRoom()
 {
      return room;
 }
 
 
-void myClass::setFun(int f)
+void myClass::setFun(bool f)
 {
      fun = f;
 }
