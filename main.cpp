@@ -20,11 +20,11 @@ int main()
 
     myVar.setNum(var);
     myVar.setRoom(str);
-    myVar.setFun(var);
+    myVar.setFun(bo);
 
     cout << myVar.getNum() << endl;
-    cout << myVar.getRoom(str) << endl;
-    cout << myVar.getFun(var) << endl;
+    cout << myVar.getRoom() << endl;
+    cout << myVar.getFun() << endl;
 
     system("PAUSE");
     return 0;
