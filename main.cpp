@@ -23,7 +23,6 @@ int main()
     cout << myVar.getRoom() << endl;
     cout << myVar.getFun() << endl;
 
-    system("PAUSE");
     return 0;
 
 }
