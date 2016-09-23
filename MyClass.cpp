@@ -1,4 +1,4 @@
-void myClass::Myclass()
+void myClass::myClass()
 {
     int num;
     string room;
