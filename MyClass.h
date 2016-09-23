@@ -15,6 +15,7 @@ class myClass //header
             bool fun;
 
    public:
+            myClass();
             void setNum(int n);
             int getNum();
             void setRoom(string r);
