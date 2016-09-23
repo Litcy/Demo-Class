@@ -8,12 +8,20 @@ using namespace std;
 
 class myClass //header
 {
- k
+  private:
+            int num;
+            string room;
+            bool fun;
 
-
-
-
-
-
+   public:
+            void setNum(int n);
+            int getNum();
+            void setRoom(int r);
+            string getRoom();
+            void setFun(int f);
+            bool getFun();
+      
 };
+
+#endif
 
