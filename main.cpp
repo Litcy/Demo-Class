@@ -13,7 +13,7 @@ int main()
     int var = 10;
     bool bo = true;
 
-    cout << " Var= " << endl;
+    cout << " Var= " << var << endl;
   
     myVar.setNum(var);
     myVar.setRoom("hi");
