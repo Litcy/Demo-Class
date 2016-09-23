@@ -17,9 +17,9 @@ class myClass //header
    public:
             void setNum(int n);
             int getNum();
-            void setRoom(int r);
+            void setRoom(string r);
             string getRoom();
-            void setFun(int f);
+            void setFun(bool f);
             bool getFun();
       
 };
