@@ -14,12 +14,9 @@ int main()
     bool bo = true;
 
     cout << " Var= " << endl;
-    
-    cout << "Enter a string" << endl;
-    cin >> str;
-
+  
     myVar.setNum(var);
-    myVar.setRoom(str);
+    myVar.setRoom("hi");
     myVar.setFun(bo);
 
     cout << myVar.getNum() << endl;
