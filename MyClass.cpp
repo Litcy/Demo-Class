@@ -2,7 +2,7 @@ void myClass::myClass()
 {
     int num;
     string room;
-    bool fun;
+    bool fun; 
 }
 
 void myClass::setNum(int n)
