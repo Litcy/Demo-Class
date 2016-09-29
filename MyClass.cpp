@@ -8,12 +8,6 @@ MyClass::MyClass(int m, string s)
     room = s;
 } 
 
-MyClass::MyClass(int l, string i)
-{
-    num = m;
-    room = s;
-} 
-
 MyClass::MyClass(int k)
 {
     num = k;

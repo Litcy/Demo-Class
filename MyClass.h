@@ -8,7 +8,7 @@
 using namespace std;
 
 class MyClass //header
-{
+{ 
   private:
             int num = 9;
             string room = "HI";
