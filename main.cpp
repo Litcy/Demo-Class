@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    myClass myVar;
+    MyClass myVar;
     string str;
     int var = 10;
     bool bo = true;
