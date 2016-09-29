@@ -14,7 +14,7 @@ MyClass::MyClass(int l, string i)
     room = s;
 } 
 
-MyClass::MyClass(int k,)
+MyClass::MyClass(int k)
 {
     num = k;
     
