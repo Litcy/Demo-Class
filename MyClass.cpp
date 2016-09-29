@@ -1,58 +1,58 @@
 #include "MyClass.h"
 
-myClass::myClass(){}
+MyClass::MyClass(){}
 
-myClass::myClass(int m, string s)
+MyClass::MyClass(int m, string s)
 {
     num = m;
     room = s;
 } 
 
-myClass::myClass(int l, string i)
+MyClass::MyClass(int l, string i)
 {
     num = m;
     room = s;
 } 
 
-myClass::myClass(int k,)
+MyClass::MyClass(int k,)
 {
     num = k;
     
 } 
 
-myClass::myClass(string i)
+MyClass::MyClass(string i)
 {
     room = i;
 } 
 
 
-void myClass::setNum(int n)
+void MyClass::setNum(int n)
 {
      num = n;
 }
 
-int myClass::getNum()
+int MyClass::getNum()
 {
      return num;
 }
 
-void myClass::setRoom(string r)
+void MyClass::setRoom(string r)
 {
      room = r;
 }
 
-string myClass::getRoom()
+string MyClass::getRoom()
 {
      return room;
 }
 
 
-void myClass::setFun(bool f)
+void MyClass::setFun(bool f)
 {
      fun = f;
 }
 
-bool myClass::getFun()
+bool MyClass::getFun()
 {
      return fun;
 }
