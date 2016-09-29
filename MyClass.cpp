@@ -25,6 +25,7 @@ MyClass::MyClass(string i)
     room = i;
 } 
 
+MyClass::~MyClass(){} 
 
 void MyClass::setNum(int n)
 {
