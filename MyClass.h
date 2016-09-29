@@ -19,6 +19,8 @@ class MyClass //header
             MyClass(int w, string s);
             MyClass(int f);
             MyClass(string t);
+            ~MyClass();
+
             void setNum(int n);
             int getNum();
             void setRoom(string r);
