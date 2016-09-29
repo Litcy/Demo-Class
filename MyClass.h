@@ -7,7 +7,7 @@
 
 using namespace std;
 
-class myClass //header
+class MyClass //header
 {
   private:
             int num = 9;
