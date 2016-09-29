@@ -1,11 +1,30 @@
 #include "MyClass.h"
 
-myClass::myClass()
+myClass::myClass(){}
+
+myClass::myClass(int m, string s)
 {
-    int num = 0;
-    string room;
-    bool fun; 
-}
+    num = m;
+    room = s;
+} 
+
+myClass::myClass(int l, string i)
+{
+    num = m;
+    room = s;
+} 
+
+myClass::myClass(int k,)
+{
+    num = k;
+    
+} 
+
+myClass::myClass(string i)
+{
+    room = i;
+} 
+
 
 void myClass::setNum(int n)
 {
