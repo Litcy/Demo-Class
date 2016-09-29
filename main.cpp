@@ -25,4 +25,4 @@ int main()
 cout << " Var= " << var << endl;
     return 0;
 
-}
+} 
