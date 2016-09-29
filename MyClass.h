@@ -14,8 +14,11 @@ class myClass //header
             string room;
             bool fun;
 
-   public:
+   public: 
             myClass();
+            myClass(int w, string s);
+            myClass(int f);
+            myClass(string t);
             void setNum(int n);
             int getNum();
             void setRoom(string r);
