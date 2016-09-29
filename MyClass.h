@@ -15,10 +15,10 @@ class MyClass //header
             bool fun = true;
 
    public: 
-            myClass();
-            myClass(int w, string s);
-            myClass(int f);
-            myClass(string t);
+            MyClass();
+            MyClass(int w, string s);
+            MyClass(int f);
+            MyClass(string t);
             void setNum(int n);
             int getNum();
             void setRoom(string r);
