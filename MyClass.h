@@ -10,9 +10,9 @@ using namespace std;
 class myClass //header
 {
   private:
-            int num;
-            string room;
-            bool fun;
+            int num = 9;
+            string room = "HI";
+            bool fun = true;
 
    public: 
             myClass();
